@@ -8,11 +8,10 @@ Countries around the world are facing rapidly evolving healthcare challenges, an
 
 ## Interesting Charts
 
-![Global Mortality Type Clusters](img/clusters.png)
+<img src= "img/clusters.png" alt="Global Mortality Type Clusters" style="border: 2px solid grey;">
 
-![Global Life Expectancy Trends over Time](img/trend_over_time.png)
+<img src= "img/trend_over_time.png" alt="Global Life Expectancy Trends over Time" style="border: 2px solid grey;">
 
-![Life Expectancy by Country](img/life_exp.png)
+<img src= "img/life_exp.png" alt="Life Expectancy by Country" style="border: 2px solid grey;">
 
-![Life Expectancy Change by Country](img/life_exp_chg.png)
-
+<img src= "img/life_exp_chg.png" alt="Life Expectancy Change by Country" style="border: 2px solid grey;">
