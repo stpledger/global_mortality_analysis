@@ -1,6 +1,6 @@
 # Global Mortality Analysis
 
-This repository contains all materials related to the paper **Which Lever Should the WHO Pull?**. All code is contained in the [project.ipynb](project.ipynb) file, and the paper is available in both pdf and docx formats.
+This repository contains all materials related to the paper [**Which Lever Should the WHO Pull?**](<Which Lever Should the WHO Pull.pdf>). Check out my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7330635530008780800/) about it! All code is contained in the [project.ipynb](project.ipynb) file, and the paper is available in both pdf and docx formats.
 
 ## Paper Abstract
 
